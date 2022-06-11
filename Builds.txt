@@ -1,0 +1,8 @@
+To builld list:
+
+Cranes
+Houses
+Smith
+Enchanter
+Fountain
+Markets
